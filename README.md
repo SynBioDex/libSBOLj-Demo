@@ -10,8 +10,11 @@ of a CRISPR-based repression model. This project has been set up to run in Eclip
 * pom.xml: Maven configuration of the project
 * README.md: this file
 
+## To import into Eclipse:
+Import as a Maven project, either directly from the git repository or first cloning and then importing your local copy.
+
 ## To run:
-To run normally, execute "RepreesionModel.java"
+To run normally, execute "RepressionModel.java" as a Java application
 
 In response, you should see an RDF/XML output in your Eclipse's console, and a "RepressionModel.rdf" produced under the "crispr" directory.
 	
